@@ -24,7 +24,7 @@ $ cd ../react-api-crypto-tracker
 $ npm install
 $ npm start
 ```
-![Run](https://github.com/KamalEssam/react-api-crypto-tracker/blob/main/src/images/vidoe.mov)
+![Run](https://github.com/KamalEssam/react-api-crypto-tracker/blob/main/src/images/video.gif)
 
 
 
